@@ -59,9 +59,9 @@ POC 管理界面
 
 Yscan 的开发过程中，参考和借鉴了多个优秀的开源项目，在此一并致谢以下开发者和他们的杰出作品：
 
-- 🌊 [TscanPlus](https://github.com/TideSec/TscanPlus) — 感谢 TideSec 大佬提供的高性能扫描框架  
+- 🌊 [TscanPlus](https://github.com/TideSec/TscanPlus) — 感谢 TideSec 大佬提供的高性能扫描思路参考  
 - 🕶 [承影（ChYing）](https://github.com/yhy0/ChYing) — 感谢 YHY 大佬的指纹识别与扫描思路参考  
-- 💬 [Slack](https://github.com/qiwentaidi/Slack) — 感谢 qwtd 大佬的精简化模块设计  
+- 💬 [Slack](https://github.com/qiwentaidi/Slack) — 感谢 qwtd 大佬的精简化模块设计思路参考  
 - 🛰 [ServerScan](https://github.com/Adminisme/ServerScan) — 感谢 Adminisme 提供的扫描与探测组件灵感  
 
 感谢所有开源社区贡献者，是你们推动了工具生态的发展！
