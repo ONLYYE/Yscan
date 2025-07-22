@@ -45,7 +45,8 @@ POC 管理界面
 
 
 📱 扫码体验 / 加入交流群：
-![a9c93479aabd57b79555ed2332408bb3](https://github.com/user-attachments/assets/6c2840aa-2412-4483-9bc4-7de98f77b785)
+![image](https://github.com/user-attachments/assets/0b7ad7fd-c9c6-4ef0-a643-8bc36475e407)
+
 
 
 扫码获取工具下载、使用教程、交流群入口
