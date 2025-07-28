@@ -25,8 +25,8 @@ Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/92e94df4-553d-43ad-ae80-efaca634d632" />
 Web 扫描结果页
 ![ce85e1548e617e6cbffc5ebcaef80170](https://github.com/user-attachments/assets/54a27339-ef0e-4362-a76a-769cca1e7227)
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/f986c943-5e7d-4193-a7a8-f70f979d8950" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/fda675fc-9a0f-402a-b751-0bd0c0f600db" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6ea5a269-d96e-4aac-896b-9b828b9ecc7a" />
+
 
 POC 管理界面
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/d185e604-8fe9-4ab5-8a31-a5496d8ebb83" />
