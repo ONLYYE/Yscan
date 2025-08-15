@@ -43,7 +43,8 @@ POC 管理界面
 
 
 📱 扫码体验 / 加入交流群：
-![image](https://github.com/user-attachments/assets/0b7ad7fd-c9c6-4ef0-a643-8bc36475e407)
+![137fdda446c874c7dd1640c180b88b83](https://github.com/user-attachments/assets/12c4883a-8be6-490c-9032-b0e83bba5b34)
+
 
 
 
