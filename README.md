@@ -45,8 +45,7 @@ POC 管理界面
 
 
 📱 扫码体验 / 加入交流群：
-![137fdda446c874c7dd1640c180b88b83](https://github.com/user-attachments/assets/12c4883a-8be6-490c-9032-b0e83bba5b34)
-
+![e5e44ca0a5739b576e64a84d73e79587](https://github.com/user-attachments/assets/49ee2eed-1808-4eb7-ae97-20b8f033ae44)
 
 
 
