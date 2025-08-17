@@ -12,7 +12,7 @@ Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证
 ## 🔥 核心功能亮点
 ### 🛠 快速打点利器
 快速识别目标资产、端口、服务指纹信息，帮助红队成员构建完整外部攻击面画像。
-### 📂 图形化 Nuclei GUI + POC管理
+### 📂 图形化 Nuclei GUI + POC+ Workflow 管理
 支持 POC 可视化编辑、导入、验证，一键批量执行，高效实用。
 ### 📊 数据梳理
 结构化展示扫描与验证结果，支持分类、筛选与导出。
@@ -24,7 +24,8 @@ Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证
 首页界面
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/92e94df4-553d-43ad-ae80-efaca634d632" />
 综合利用模块结果页
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/976bfb73-c940-4a86-b58a-d99fdf99ecfb" />
+<img width="2760" height="1600" alt="image" src="https://github.com/user-attachments/assets/6774b177-f489-41c9-8736-17f1a29a2c72" />
+
 
 POC 管理界面
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/d185e604-8fe9-4ab5-8a31-a5496d8ebb83" />
