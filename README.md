@@ -25,7 +25,8 @@ Yscan 是一款轻量化、可视化的漏洞打点工具，专为初步探测�
 <img width="2760" height="1600" alt="image" src="https://github.com/user-attachments/assets/3d91a223-02f3-406e-8b97-4438a04eb565" />
 
 综合利用模块结果页
-<img width="2760" height="1600" alt="image" src="https://github.com/user-attachments/assets/6774b177-f489-41c9-8736-17f1a29a2c72" />
+<img width="2800" height="1800" alt="image" src="https://github.com/user-attachments/assets/970c1c04-8df5-41cf-bb07-961284753f84" />
+
 
 Workflow 管理界面
 <img width="2760" height="1600" alt="image" src="https://github.com/user-attachments/assets/78fe7a36-1fe9-4bae-8938-00efc140a5e4" />
