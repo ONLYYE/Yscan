@@ -51,7 +51,8 @@ POC 生成器界面
 📥 立即下载体验 Yscan！
 
 📱 扫码体验 / 加入交流群：
-![4e2480427c35a620d0dbe8fcc0972733](https://github.com/user-attachments/assets/2b703d81-70ac-40bf-a391-0e9044264bea)
+![17de7977451d1fcf2790ee00887594e2](https://github.com/user-attachments/assets/ce642eff-659a-4265-8164-993c6167d304)
+
 
 
 
